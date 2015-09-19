@@ -1,0 +1,10 @@
+version: "Apple Swift version 2.0 (swiftlang-700.0.59 clang-700.0.72)"
+options: "4adeca060e40be70a293c85d7d8ffee3"
+build_time: [495991064, 680707000]
+inputs: 
+	"/Users/niklas/Trifork/iOSBuild/PreBuild/Externals/CommandLine/CommandLine/CommandLine.swift": [495989369, 0]
+	"/Users/niklas/Trifork/iOSBuild/PreBuild/PreBuild/String-Extensions.swift": [495990736, 0]
+	"/Users/niklas/Trifork/iOSBuild/PreBuild/PreBuild/PreBuilder.swift": [495990736, 0]
+	"/Users/niklas/Trifork/iOSBuild/PreBuild/Externals/CommandLine/CommandLine/StringExtensions.swift": [495989369, 0]
+	"/Users/niklas/Trifork/iOSBuild/PreBuild/Externals/CommandLine/CommandLine/Option.swift": [495989369, 0]
+	"/Users/niklas/Trifork/iOSBuild/PreBuild/PreBuild/main.swift": [495990713, 0]

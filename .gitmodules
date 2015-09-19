@@ -1,0 +1,9 @@
+[submodule "Externals/CommandLine"]
+	path = Externals/CommandLine
+	url = https://github.com/jatoben/CommandLine.git
+[submodule "Externals/JSONCodable"]
+	path = Externals/JSONCodable
+	url = https://github.com/matthewcheok/JSONCodable.git
+[submodule "Externals/XcodeServerSDK"]
+	path = Externals/XcodeServerSDK
+	url = https://github.com/czechboy0/XcodeServerSDK.git
